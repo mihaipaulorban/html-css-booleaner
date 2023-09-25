@@ -66,4 +66,30 @@
     padding: 10px;
   }
 
+#consigliati{
+    color: grey;
+}
 
+#quadrato1{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-image: url(immagini/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+#quadrato2{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    background-image: url(immagini/graph.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding-top: 5px;
+    padding-left: 5px;
+}
