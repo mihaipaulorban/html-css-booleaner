@@ -1,0 +1,15 @@
+#logo {
+    width: 350px;
+    position: absolute;
+    bottom: 3%;
+    left: 3%;
+ }
+ 
+ .header-back {
+     width: 100%;
+     height: 150px;
+     background: rgb(97, 178, 250) url(immagini/pattern.png);
+     background-size: 60%;
+     background-position: center 0px;
+     position: relative;
+ }
