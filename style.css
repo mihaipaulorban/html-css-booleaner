@@ -37,3 +37,33 @@
     font-size: 10px;
  }
 
+ #fotografi{
+    font-size: 10px;
+ }
+
+ table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th {
+    background-color: #71c6ff;
+    color: #fff;
+    padding: 5px;
+    text-align: left;
+  }
+  
+  .odd {
+    background-color: #b5f1ff;
+  }
+  
+  .even {
+    background-color: #ffffff;
+  }
+  
+  td {
+    padding: 10px;
+  }
+
+
